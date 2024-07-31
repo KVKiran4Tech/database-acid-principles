@@ -1,4 +1,4 @@
-# database-acid-principles
+# Database ACID Principles
 
   ACID is an acronym that stands for Atomicity, Consistency, Isolation, and Durability. These principles ensure reliable processing of database transactions. Here are explanations and real-time examples of each principle:
 
